@@ -16,6 +16,7 @@ from transformers import AutoModelForImageTextToText, Qwen3VLForConditionalGener
 
 #MODEL_ID = "huihui-ai/Huihui-Qwen3.5-4B-abliterated"
 MODEL_ID = "huihui-ai/Huihui-Qwen3.5-2B-abliterated"
+#MODEL_ID = "huihui-ai/Huihui-Qwen3.5-0.8B-abliterated"
 #MODEL_ID = "huihui-ai/Huihui-Qwen3-VL-2B-Instruct-abliterated"
 #MODEL_ID = "huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliterated"
 PUBLIC_MODEL_NAME = "local-qwen"
